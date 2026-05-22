@@ -1,11 +1,11 @@
-# 🚀 TradeSync – Trading Journal & Analytics Platform
+#  TradeSync – Trading Journal & Analytics Platform
 
 TradeSync is a modern trading journal website designed to help traders track, analyze, and improve their trading performance.
 The platform allows users to record trades, calculate profit/loss automatically, monitor win rate, and manage complete trading history through an interactive dashboard.
 
 ---
 
-## ✨ Features
+##  Features
 
 * 📈 Add and manage trades
 * 💰 Automatic Profit & Loss calculation
@@ -18,7 +18,7 @@ The platform allows users to record trades, calculate profit/loss automatically,
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML
 * CSS
@@ -26,7 +26,7 @@ The platform allows users to record trades, calculate profit/loss automatically,
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
 Trading dashboard with:
 
@@ -37,7 +37,7 @@ Trading dashboard with:
 
 ---
 
-## 🎯 
+##  
 
 ## &#x20;Project Preview
 
@@ -52,7 +52,7 @@ Trading dashboard with:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * 🔐 Authentication system
 * ☁️ Cloud database integration
@@ -64,7 +64,7 @@ Trading dashboard with:
 
 ---
 
-## 💡 Project Goal
+##  Project Goal
 
 TradeSync aims to help traders:
 
@@ -75,7 +75,7 @@ TradeSync aims to help traders:
 
 ---
 
-## 🏷️ Tagline
+##  Tagline
 
 ### Sync Your Trades. Master Your Performance.
 
