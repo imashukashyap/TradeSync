@@ -4,6 +4,7 @@ TradeSync is a modern trading journal website designed to help traders track, an
 The platform allows users to record trades, calculate profit/loss automatically, monitor win rate, and manage complete trading history through an interactive dashboard.
 
 Features
+
 📈 Add and manage trades
 💰 Automatic Profit & Loss calculation
 📊 Trading analytics dashboard
