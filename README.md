@@ -6,13 +6,21 @@ The platform allows users to record trades, calculate profit/loss automatically,
 Features
 
 📈 Add and manage trades
+
 💰 Automatic Profit & Loss calculation
+
 📊 Trading analytics dashboard
+
 🏆 Win rate tracking
+
 📋 Trade history management
+
 💵 Deposit & withdrawal tracking
+
 🌙 Modern responsive UI
+
 💾 LocalStorage support
+
 
 Technologies Used
 HTML
